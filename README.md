@@ -4,7 +4,7 @@ This is an android and ios application that monitors the number of corona cases 
 There I attach some screenshoots of this app.
 
 HomePage:
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-09-18 at 18 37 46](https://user-images.githubusercontent.com/55773576/93603966-2f4f3f00-f9de-11ea-8405-b633c4643425.png).element height="10%" width="10%"
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-09-18 at 18 37 46](https://user-images.githubusercontent.com/55773576/93603966-2f4f3f00-f9de-11ea-8405-b633c4643425.png)
 
 Drawer:
 
